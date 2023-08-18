@@ -89,6 +89,7 @@ interesting over the years (since 2017). I hope it proves useful to others too.
 ## Deep-dives/low-level
 * [A primer on Roaring bitmaps: what they are and how they work](https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/)
 * [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
+* [Building a Date-Time Library: Timezones](https://medium.com/@matthiasngeo/the-problems-with-timezones-63c082c262f8) (Disclaimer: written by me)
 * [C++ is faster and safer than Rust: benchmarked by Yandex](https://pvs-studio.com/en/blog/posts/0733/)
 * [Collection Pipelines](https://martinfowler.com/articles/collection-pipeline/)
 * [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
