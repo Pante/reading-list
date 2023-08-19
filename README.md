@@ -1,9 +1,7 @@
- Pante's Reading List
+# Pante's Reading List
 
-This is a curated list of programming & software engineering articles that I've personally found to be amusing and/or
-interesting over the years (since 2017). I hope it proves useful to others too.
-
-
+This is a curated list of programming & software engineering articles that I've personally found to be amusing and/or interesting over the years. 
+I hope it proves useful to others too.
 
 ## Company Blogs
 * [Cloudflare's blog](https://blog.cloudflare.com)
