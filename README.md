@@ -1,7 +1,9 @@
-# Pante's Reading List
+ Pante's Reading List
 
 This is a curated list of programming & software engineering articles that I've personally found to be amusing and/or
 interesting over the years (since 2017). I hope it proves useful to others too.
+
+
 
 ## Company Blogs
 * [Cloudflare's blog](https://blog.cloudflare.com)
@@ -110,6 +112,7 @@ interesting over the years (since 2017). I hope it proves useful to others too.
   * [Part 1](https://renato.athaydes.com/posts/how-to-write-slow-rust-code.html)
   * [Part 2](https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html)
 * [How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
+* [I built a garbage collector for a language that doesn't need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [I made JSON.parse() 2x faster](https://radex.io/react-native/json-parse/)
 * [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)
 * [Migrating a production database without any downtime](https://teamplify.com/blog/zero-downtime-DB-migrations/)
@@ -302,6 +305,7 @@ interesting over the years (since 2017). I hope it proves useful to others too.
 * [Old Neglected Theorems Are Still Theorems](https://existentialtype.wordpress.com/2014/03/20/old-neglected-theorems-are-still-theorems/)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 * [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate)
+* [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [Rust has a small standard library (and that's ok)](https://blog.nindalf.com/posts/rust-stdlib/)
 * [Should You Use Upper Bound Version Constraints?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [So, You Want To Write Your Own Language?](https://digitalmars.com/articles/b89.html)
