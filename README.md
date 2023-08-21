@@ -6,6 +6,7 @@ I hope it proves useful to others too.
 ## Company Blogs
 * [Cloudflare's blog](https://blog.cloudflare.com)
 * [Discord's Blog](https://discord.com/blog/)
+* [Facebook's blog](https://engineering.fb.com)
 * [Github's Blog](https://github.blog/category/engineering/)
 * [Netflix Technology Blog](https://netflixtechblog.medium.com)
 * [Riot Game's Blog](https://technology.riotgames.com/)
@@ -77,7 +78,7 @@ I hope it proves useful to others too.
 * [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [Whatever happened to programming?](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
 * [What is Rust and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
-* [What we can learn from “_why”, the long lost open source develope](https://github.com/readme/featured/why-the-lucky-stiff)
+* [What we can learn from “_why”, the long lost open source developer](https://github.com/readme/featured/why-the-lucky-stiff)
 * [What’s the difference between software engineering and computer science degrees?](https://stackoverflow.blog/2023/04/10/whats-the-difference-between-software-engineering-and-computer-science-degrees/)
 * [What’s the matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/)
 * [When to use Bazel](https://earthly.dev/blog/bazel-build/)
@@ -262,6 +263,7 @@ I hope it proves useful to others too.
 * [Your 2020 Guide for Surviving Interviewing as a Software Engineer](https://tracidini.medium.com/your-2020-guide-for-surviving-interviewing-as-a-software-engineer-8cc66cccdcbc)
 
 ## Case Studies
+* [Cache made consistent](https://engineering.fb.com/2022/06/08/core-data/cache-made-consistent/)
 * [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
 * [How to shuffle songs](https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
 * [How we store and process millions of orders daily](https://engineering.grab.com/how-we-store-millions-orders)
