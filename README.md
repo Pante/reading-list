@@ -116,6 +116,7 @@ I hope it proves useful to others too.
 * [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)
 * [Migrating a production database without any downtime](https://teamplify.com/blog/zero-downtime-DB-migrations/)
 * [Revisiting Prechelt’s paper and follow-ups comparing Java, Lisp, C/C++ and scripting languages](https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html)
+* [Scaling microservices with gRPC: part one](https://www.thoughtworks.com/en-sg/insights/blog/microservices/scaling-microservices-gRPC-part-one)
 * [SIMD accelerated sorting in Java - how it works and why it was 3x faster](https://jbaker.io/2022/06/09/vectors-in-java/)
 * [The 100% Markdown Expedition](https://hacks.mozilla.org/2022/09/the-100-percent-markdown-expedition/)
 * [The Hardest Program I've Ever Written](https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/#2)
