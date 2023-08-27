@@ -295,6 +295,7 @@ I periodically update this list.
 
 ## Programming Languages/Theory
 * [Being Popular](http://paulgraham.com/popular.html)
+* [Beautiful Concurrency](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/beautiful.pdf)
 * [Beyond Exception Handling: Conditions and Restarts](https://gigamonkeys.com/book/beyond-exception-handling-conditions-and-restarts.html)
 * [Blogging about Midori](https://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 * [Challenging LR Parsing](https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html)
