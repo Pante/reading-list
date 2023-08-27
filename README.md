@@ -3,6 +3,8 @@
 This is a curated list of programming & software engineering articles that I've personally found to be amusing and/or interesting over the years. 
 I hope it proves useful to others too.
 
+I periodically update this list.
+
 ## Company Blogs
 * [Cloudflare's blog](https://blog.cloudflare.com)
 * [Discord's Blog](https://discord.com/blog/)
@@ -35,6 +37,7 @@ I hope it proves useful to others too.
 * [Falsehoods Programmers Believe About Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/)
 * [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 * [Faster Chrome - Let The Compiler do the work](https://blog.chromium.org/2021/12/faster-chrome-let-the-compiler-do-the-work.html)
+* [From Blaze to Buck2 - A Brief History of Monorepo Build Systems](https://betterprogramming.pub/from-blaze-to-buck2-a-brief-history-of-modern-monorepo-build-systems-563becbcb987)
 * [From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)
 * [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#the-good)
 * [Google's technical writing blog](https://developers.google.com/tech-writing/one/words)
@@ -49,6 +52,7 @@ I hope it proves useful to others too.
 * [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 * [Lessons learnt while trying to modernize some C code](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
 * [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/?tab=%22Confusable-methods%22)
+* [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/)
 * [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
 * [Please Don't Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)
@@ -122,6 +126,7 @@ I hope it proves useful to others too.
 * [The Hardest Program I've Ever Written](https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/#2)
 * [The HTTP QUERY Method](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
 * [The legend of "x86 CPUs decode instructions into RISC form internally"](https://fanael.github.io/is-x86-risc-internally.html)
+* [This isn't the way to speed up Rust compile times](https://xeiaso.net/blog/serde-precompiled-stupid)
 * [Towards Inserting One Billion Rows in SQLite Under A Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
 * [Ubershaders: A Ridiculous Solution to an Impossible Problem](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 * [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
@@ -313,6 +318,7 @@ I hope it proves useful to others too.
 * [So, You Want To Write Your Own Language?](https://digitalmars.com/articles/b89.html)
 * [Structured Concurrency Anniversary](https://elizarov.medium.com/structured-concurrency-anniversary-f2cc748b2401)
 * [The Impoliteness of Overriding Methods](https://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
+* [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html
 * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [Why nullable types](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a)
