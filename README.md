@@ -319,7 +319,7 @@ I periodically update this list.
 * [So, You Want To Write Your Own Language?](https://digitalmars.com/articles/b89.html)
 * [Structured Concurrency Anniversary](https://elizarov.medium.com/structured-concurrency-anniversary-f2cc748b2401)
 * [The Impoliteness of Overriding Methods](https://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
-* [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html
+* [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [Why nullable types](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a)
