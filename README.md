@@ -226,6 +226,7 @@ I periodically update this list.
 * [How to Thrive as an Average Programme](https://betterprogramming.pub/how-to-thrive-as-an-average-programmer-1dd202540ac)
 * [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [Investing in Internal Documentation: A Brick-by-Brick Guide for Startups](https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups)
+* [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 * [New grad vs Senior Developer](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
 * [Lessons from 6 software rewrite stories](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22)
 * [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/ESE%20WilliamsPairProgramming_V2.pdf)
@@ -241,6 +242,7 @@ I periodically update this list.
 * [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
 * [Top Five (Wrong) Reasons You Don’t Have Testers](https://www.joelonsoftware.com/2000/04/30/top-five-wrong-reasons-you-dont-have-testers/)
 * [What distinguishes great software engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
+* [Why I don’t buy “duplication is cheaper than the wrong abstraction”](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 
 ## Career
 * [16x Engineer](https://16x.engineer)
@@ -320,6 +322,7 @@ I periodically update this list.
 * [Structured Concurrency Anniversary](https://elizarov.medium.com/structured-concurrency-anniversary-f2cc748b2401)
 * [The Impoliteness of Overriding Methods](https://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
 * [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
+* [Types vs Sets](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
 * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [Why nullable types](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a)
