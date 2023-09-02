@@ -301,6 +301,7 @@ I periodically update this list.
 * [Beyond Exception Handling: Conditions and Restarts](https://gigamonkeys.com/book/beyond-exception-handling-conditions-and-restarts.html)
 * [Blogging about Midori](https://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 * [Challenging LR Parsing](https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html)
+* [Compile-time and short-circuit evaluation](https://c3.handmade.network/blog/p/8773-compile-time_and_short-circuit_evaluation)
 * [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 * [Considerations for programming language design: a rebuttal](https://medium.com/hackernoon/considerations-for-programming-language-design-a-rebuttal-5fb7ef2fd4ba)
 * [Crafting Interpreters](https://craftinginterpreters.com)
