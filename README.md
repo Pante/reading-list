@@ -78,6 +78,7 @@ I periodically update this list.
 * [The untold Story of SQLite With Richard Hipp](https://corecursive.com/066-sqlite-with-richard-hipp/)
 * [This is not your grandfather’s Perl](https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/)
 * [Tools for better thinking](https://untools.co)
+* [Two years for developing an MMO](https://raiding.zone/docs/posts/retrospective/#two-years-for-developing-an-mmo)
 * [Unladen Swallow Retrospective](https://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
 * [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [Whatever happened to programming?](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
