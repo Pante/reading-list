@@ -242,6 +242,7 @@ I periodically update this list.
 * [The Pragmatic Engineer Test: 12 Questions on Engineering Culture](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [The Twelve-Factor App](https://12factor.net)
+* [The Worst Programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
 * [Top Five (Wrong) Reasons You Don’t Have Testers](https://www.joelonsoftware.com/2000/04/30/top-five-wrong-reasons-you-dont-have-testers/)
 * [What distinguishes great software engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
