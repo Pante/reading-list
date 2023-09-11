@@ -69,6 +69,7 @@ I periodically update this list.
 * [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
 * [Stiff Asks, Great Programmers Answer](https://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/)
 * [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
+* [The Decline of Usability](https://datagubbe.se/decusab/)
 * [The Fall of Stack Overflow, Explained](https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained?utm_medium=ios)
 * [The Non-Productive Programmer (NPP)](https://gerlacdt.github.io/posts/nonproductive-programmer/)
 * [The PGP Problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
@@ -263,6 +264,7 @@ I periodically update this list.
 * [Staff archetypes](https://staffeng.com/guides/staff-archetypes/)
 * [Software Engineer roadmap via books](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
 * [Tech Resume Advice](https://blog.huikang.dev/career/2022/10/17/resume-advice.html)
+* [The Two Healthbar Theory of Burnout](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
 * [The Two Tiers of Singapore's Tech Companies](http://elijames.org/the-two-tiers-of-singapores-tech-companies/)
 * [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
 * [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
@@ -300,6 +302,7 @@ I periodically update this list.
 * [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/)
 
 ## Programming Languages/Theory
+* [A taste of Coq and correct code by construction](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 * [Being Popular](http://paulgraham.com/popular.html)
 * [Beautiful Concurrency](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/beautiful.pdf)
 * [Beyond Exception Handling: Conditions and Restarts](https://gigamonkeys.com/book/beyond-exception-handling-conditions-and-restarts.html)
