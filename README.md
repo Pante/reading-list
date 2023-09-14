@@ -298,6 +298,7 @@ I periodically update this list.
 * Uber's rewrite story (from different perspectives)
   * [Uber's Crazy YOLO App Rewrite, From the Front Seat](https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/)
   * [McLaren Stanley's account](https://threadreaderapp.com/thread/1336890442768547845.html)
+* [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [Upgrading GitHub to Ruby](https://github.blog/2020-08-25-upgrading-github-to-ruby-2-7/)
 * [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/)
 
