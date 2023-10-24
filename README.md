@@ -3,7 +3,7 @@
 This is a curated list of programming & software engineering articles that I've personally found to be amusing and/or interesting over the years. 
 I hope it proves useful to others too.
 
-I periodically update this list.
+I periodically update this list. Please open an issue if any of the links are dead.
 
 * [Company Blogs](#company-blogs)
 * [Personal Blogs](#personal-blogs)
@@ -42,7 +42,9 @@ I periodically update this list.
 * [Advantages of Function Programming](https://typeable.io/blog/2021-02-26-fp-pros.html)
 * [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
 * [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.devgenius.io/analyzing-new-unique-identifier-formats-uuidv6-uuidv7-and-uuidv8-d6cc5cd7391a)
+* [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/founders/dev-marketing-paid-ads)
 * [Cruise Ships](https://blog.chriszacharias.com/cruise-ships)
+* [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [Developer tools can be magic. Instead, they collect dust](https://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
 * [Down the ergonomic keyboard rabbit hole](https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html)
 * [Falsehoods Programmers Believe About Email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
@@ -78,6 +80,7 @@ I periodically update this list.
 * [Saying Goodbye to the Best Gig I Ever Had](https://steve-yegge.medium.com/saying-goodbye-to-the-best-gig-i-ever-had-a33736833c1e)
 * [Small Pleasures of Programming](https://terrycrowley.medium.com/small-pleasures-of-programming-ae4f50dde67a)
 * [Semantic Versioning Will Not Save You](https://hynek.me/articles/semver-will-not-save-you/)
+* [Solving Hierarchical Tags using Nested Sets](https://blog.sapico.me/posts/hierarchical-tags-using-nested-sets/)
 * [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
 * [Stiff Asks, Great Programmers Answer](https://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/)
@@ -111,6 +114,7 @@ I periodically update this list.
 * [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [Building a Date-Time Library: Timezones](https://medium.com/@matthiasngeo/the-problems-with-timezones-63c082c262f8) (Disclaimer: written by me)
 * [C++ is faster and safer than Rust: benchmarked by Yandex](https://pvs-studio.com/en/blog/posts/0733/)
+* [cola: a text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
 * [Collection Pipelines](https://martinfowler.com/articles/collection-pipeline/)
 * [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
 * [Discovering the Local Time Zone: Why It's a Hard Problem](https://web.archive.org/web/20130209072352/http://www.chronos-st.org/Discovering%20the%20Local%20Time%20Zone--Why%20It%27s%20a%20Hard%20Problem.html)
@@ -161,6 +165,7 @@ I periodically update this list.
 * [CRDTs go brrr](https://josephg.com/blog/crdts-go-brrr/)
 * [Distributed Counter System Design](https://systemdesign.one/distributed-counter-system-design/)
 * [Garbage Collected CRDTs on the Web](http://uu.diva-portal.org/smash/get/diva2:1441174/FULLTEXT01.pdf)
+* [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [Microservice Architecture Pattern: Saga](https://microservices.io/patterns/data/saga.html)
 * [Modern-Day Architecture Design Patterns for Software Professionals](https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 * [Redis, Kafka or RabbitMQ: Which MicroServices Message Broker To Choose?](https://www.hillelwayne.com/post/influential-dead-languages/)
@@ -184,6 +189,7 @@ I periodically update this list.
 * [Re: clean up kernel_{read,write} & friends v2](https://lkml.org/lkml/2020/5/29/1038)
 * [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 * [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+* [The Tao of Programming}(https://www.mit.edu/~xela/tao.html)
 * [This is my thinly veiled attempt to get you to use a library I wrote.](https://evinsellin.medium.com/this-is-my-thinly-veiled-attempt-to-get-you-to-use-a-library-i-wrote-9755dd0fa917)
 * [Weird architectures weren't supported to begin with](https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with)
 * [Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/)
@@ -231,6 +237,7 @@ I periodically update this list.
 * [Bullshit Software Projects](https://earthly.dev/blog/bullshit-software-projects/)
 * [Cargo Cult Software Engineering](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)
 * [CI/CD/CF? — The DevOps toolchain’s “missing-link”](https://levelup.gitconnected.com/ci-cd-cf-the-devops-toolchains-missing-link-b5c88caf6282)
+* [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 * [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
 * [Documentation unit tests](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/)
@@ -260,6 +267,8 @@ I periodically update this list.
 * [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
 * [Top Five (Wrong) Reasons You Don’t Have Testers](https://www.joelonsoftware.com/2000/04/30/top-five-wrong-reasons-you-dont-have-testers/)
 * [What distinguishes great software engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
+* [What we talk about when we talk about impostor syndrome](https://stackoverflow.blog/2023/09/11/what-we-talk-about-when-we-talk-about-imposter-syndrome/?utm_campaign=the-overflow-newsletter&utm_medium=email&utm_source=iterable/)
+* [When to *not* use SOLID principles](https://softwareengineering.stackexchange.com/questions/447532/when-to-not-use-solid-principles)
 * [Why I don’t buy “duplication is cheaper than the wrong abstraction”](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 
 ## Career
@@ -269,6 +278,7 @@ I periodically update this list.
 * [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
 * [Engineering Ladders](http://www.engineeringladders.com)
 * [Hiring in Tech](https://kiranrao.in/blog/2021/08/14/hiring-in-tech/)
+* [How to land the manager-to-IC pivot](https://stackoverflow.blog/2023/09/13/how-to-land-the-manager-to-ic-pivot/?utm_campaign=the-overflow-newsletter&utm_medium=email&utm_source=iterable/)
 * [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
 * [How to mentor software engineers](https://xdg.me/mentor-engineers/)
 * [Level Up](https://imwrightshardcode.com/2010/06/level-up/)
@@ -343,6 +353,7 @@ I periodically update this list.
 * [Should You Use Upper Bound Version Constraints?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [So, You Want To Write Your Own Language?](https://digitalmars.com/articles/b89.html)
 * [Structured Concurrency Anniversary](https://elizarov.medium.com/structured-concurrency-anniversary-f2cc748b2401)
+* [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [The Impoliteness of Overriding Methods](https://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
 * [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [Types vs Sets](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
