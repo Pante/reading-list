@@ -5,6 +5,18 @@ I hope it proves useful to others too.
 
 I periodically update this list.
 
+* [Company Blogs](#company-blogs)
+* [Personal Blogs](#personal-blogs)
+* [Uncategorized](#uncategorized)
+* [Deep-dives/low-level](#deepdiveslowlevel)
+* [Distributed Systems/System Design](distributed-systemssystem-design)
+* [Humour/Satire/Rants](#humoursatirerants)
+* [Java/JVM](javajvm)
+* [Software Engineering](software-engineering)
+* [Career](#career)
+* [Case Studies](#case-studies)
+* [Programming Languages/Theory](#programming-languagestheory)
+
 ## Company Blogs
 * [Cloudflare's blog](https://blog.cloudflare.com)
 * [Discord's Blog](https://discord.com/blog/)
