@@ -189,7 +189,7 @@ I periodically update this list. Please open an issue if any of the links are de
 * [Re: clean up kernel_{read,write} & friends v2](https://lkml.org/lkml/2020/5/29/1038)
 * [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 * [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
-* [The Tao of Programming}(https://www.mit.edu/~xela/tao.html)
+* [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [This is my thinly veiled attempt to get you to use a library I wrote.](https://evinsellin.medium.com/this-is-my-thinly-veiled-attempt-to-get-you-to-use-a-library-i-wrote-9755dd0fa917)
 * [Weird architectures weren't supported to begin with](https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with)
 * [Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/)
