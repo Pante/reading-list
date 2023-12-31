@@ -380,6 +380,7 @@ I periodically update this list. Please open an issue if any of the links are de
 * [So, You Want To Write Your Own Language?](https://digitalmars.com/articles/b89.html)
 * [Structured Concurrency Anniversary](https://elizarov.medium.com/structured-concurrency-anniversary-f2cc748b2401)
 * [The Future is Rusty](https://earthly.dev/blog/future-is-rusty/)
+* [The Heart of a Language Server](https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html)
 * [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [The Impoliteness of Overriding Methods](https://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
 * [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
