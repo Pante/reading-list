@@ -347,6 +347,7 @@ I periodically update this list. Please open an issue if any of the links are de
 * [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [Upgrading GitHub to Ruby](https://github.blog/2020-08-25-upgrading-github-to-ruby-2-7/)
 * [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/)
+* [Zanzibar: Google’s Consistent, Global Authorization System](https://www.usenix.org/system/files/atc19-pang.pdf)
 
 ## Programming Languages/Theory
 * [A taste of Coq and correct code by construction](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
