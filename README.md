@@ -321,6 +321,7 @@ I periodically update this list. Please open an issue if any of the links are de
 * [Your 2020 Guide for Surviving Interviewing as a Software Engineer](https://tracidini.medium.com/your-2020-guide-for-surviving-interviewing-as-a-software-engineer-8cc66cccdcbc)
 
 ## Case Studies
+* [Behind the scenes of Singapore’s nationwide ticket operating system for the National Day Parade](https://medium.com/open-government-products/behind-the-scenes-of-singapores-nationwide-ticket-operating-system-for-the-national-day-parade-3af0ae6e72ff)
 * [Cache made consistent](https://engineering.fb.com/2022/06/08/core-data/cache-made-consistent/)
 * [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
 * [How to shuffle songs](https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
