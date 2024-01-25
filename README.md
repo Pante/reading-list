@@ -133,6 +133,10 @@ I periodically update this list. Please open an issue if any of the links are de
 * [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 * [GPU programming](https://enccs.github.io/gpu-programming/)
 * [GPS](https://ciechanow.ski/gps/)
+* Hierarchical Clearance-based Pathfinding
+  * [Part 1](https://harablog.wordpress.com/2009/01/29/clearance-based-pathfinding/)
+  * [Part 2](https://harablog.wordpress.com/2009/02/05/hierarchical-clearance-based-pathfinding/)
+  * [Part 3](https://harablog.wordpress.com/2009/02/12/clearance-based-pathfinding-with-probabilistic-roadmaps/)
 * [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [How Doom Fire was Done](https://fabiensanglard.net/doom_fire_psx/)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
